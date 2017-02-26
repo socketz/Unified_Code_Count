@@ -15,6 +15,7 @@
 #include <string>
 #include <time.h>
 #include <conio.h>
+#include <stdio.h>
 
 #include "DiffTool.h"
 

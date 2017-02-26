@@ -13,6 +13,15 @@ Written in cross platform C++
 This variation includes the contents the of original 2013_04 release 
 with some modified and added source files and some documents briefly describing changes.
 
+### Easy build with CMake
+- Download CMake for windows from https://cmake.org/
+- Execute the build.bat or the following commands inside src path:
+```bash
+cmake -G "Visual Studio 14 2015"
+cmake --build . --config Release
+```
+- And build will be ends successfully
+
 (Below is contents of Read_Me.txt from the zip file)
 ====================================================
 
